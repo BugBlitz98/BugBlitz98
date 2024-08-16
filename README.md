@@ -13,7 +13,7 @@ I'm a seasoned full-stack developer with over eight years of hands-on experience
 - **[jsonviewer.tools](https://jsonviewer.tools)**: A powerful tool that visualizes JSON data in graph, chart, and table formats. It supports advanced features like 3D visualization, CSV import, and theme customization.
 
 ## 📚 Blog
-I regularly share insights and tutorials on [BugBlitz.dev](https://bugblitz.dev). Check out my latest posts on coding, development best practices, and more.
+I share insights and tutorials on [BugBlitz.dev](https://bugblitz.dev). Check out my latest posts on coding, development best practices, and more.
 
 ## 💬 Let's Connect
 - [LinkedIn](https://in.linkedin.com/in/animesh-manna-428633157)
