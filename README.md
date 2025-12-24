@@ -9,7 +9,6 @@ I'm a seasoned full-stack developer with over eight years of hands-on experience
 - **Data Formats**: JSON, CSV, YAML
 
 ## 🌟 Projects
-- **[Interactive Roadmap Generator Tool](https://github.com/BugBlitz98/roadmap-creator)**: A no-signup-required tool for creating and customizing project roadmaps.
 - **[jsonviewer.tools](https://jsonviewer.tools)**: A powerful tool that visualizes JSON data in graph, chart, and table formats. It supports advanced features like 3D visualization, CSV import, and theme customization.
 
 ## 📚 Blog
