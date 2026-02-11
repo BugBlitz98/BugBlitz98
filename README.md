@@ -10,6 +10,8 @@ I'm a seasoned full-stack developer with over eight years of hands-on experience
 ## 🌟 Projects
 - **[jsonviewer.tools](https://jsonviewer.tools)**: A powerful tool that visualizes JSON data in graph, chart, and table formats. It supports advanced features like 3D visualization, CSV import, and theme customization.
 
+StructViz is a developer-focused web tool that transforms GitHub repositories into interactive visual graphs, making complex codebases easier to explore, understand, and document.
+
 ## 💬 Let's Connect
 - [LinkedIn](https://in.linkedin.com/in/animesh-manna-428633157)
 - [Twitter](https://x.com/animesh68589159)
